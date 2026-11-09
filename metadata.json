@@ -1,0 +1,8 @@
+{
+  "name": "Chrisella Kurniawan – AI Personal Mentor",
+  "description": "AI Personal Mentor interaktif bersama Chrisella Kurniawan dengan konsultasi materi, kuis cerdas, rangkuman, dan voice over bahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
